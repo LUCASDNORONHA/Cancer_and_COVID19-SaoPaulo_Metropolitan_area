@@ -5,3 +5,5 @@ O câncer de pulmão é a principal causa de mortes relacionada ao câncer em to
 
 ### Objetivo:
 Será realizada uma análise em um conjunto de dados que fornece um registro abrangente de informações, incluindo a ocorrência de condições médicas específicas (C34, C91, C92 e U07.1) nas cidades de São Paulo, Guarulhos e Campinas. O objetivo é estudar o impacto da pandemia de COVID-19 (U07.1) nos cânceres de pulmão (C34) e nos cânceres de sangue (C91 e C92).
+
+<a href="https://www.kaggle.com/lucasdiasnoronha"><img src="https://1.bp.blogspot.com/-WodQBVMk-As/XnohO3mKOCI/AAAAAAABM7I/OZhswRpsNVsyPP0kvYEwlTO20nuhllFnACLcBGAsYHQ/s1600/Regi%25C3%25A3o%2BMetropolitana%2Bde%2BS%25C3%25A3o%2BPaulo.png" alt="Região Metroplina de São Paulo" ></a>
